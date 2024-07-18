@@ -1,6 +1,6 @@
 # DataAnalysis_for_DataEngineeringSalaries2024
 
-This notebook documents an in-depth analysis of the 2024 data engineer salaries dataset obtained from Kaggle. Utilizing Apache Spark within Databricks, the analysis covers data ingestion, transformation, and visualization to derive meaningful insights.
+This notebook documents an in-depth analysis of the 2024 data engineer salaries dataset obtained from [Kaggle](https://www.kaggle.com/datasets/chopper53/data-engineer-salary-in-2024). Utilizing Apache Spark within Databricks, the analysis covers data ingestion, transformation, and visualization to derive meaningful insights.
 
 # Objectives for Data Analysis
 **1. Dataset Setup and Inspection:**
